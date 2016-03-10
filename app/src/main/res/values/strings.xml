@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SMCT Services</string>
+    <string name="menu_filter_description">Filter</string>
+    <string name="menu_refresh_description">Refresh</string>
+    <string name="menu_search_description">Search</string>
+    <string name="search_hint">Search for a service</string>
+    <string name="filter_heading_locations">Location</string>
+    <string name="filter_heading_directors">Funeral Director</string>
+    <string name="filter_services_title">Filter services</string>
+    <string name="all">All</string>
+    <string name="date_time_label">Date &amp; Time</string>
+    <string name="location_venue_label">Location &amp; Venue</string>
+    <string name="type_label">Type</string>
+    <string name="funeral_director_label">Funeral Director</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="funeral_director_hint">(Leave blank for all)</string>
+    <string name="woronora">Woronora</string>
+    <string name="eastern_suburbs">Eastern Suburbs</string>
+    <string name="venue_filter_info">Venue: %1$s</string>
+    <string name="fd_filter_info">Funeral Directors: %1$s</string>
+    <string name="fd_filter_info_2">%1$s selected</string>
+</resources>
